@@ -104,7 +104,7 @@
   {
       "id": "95cb8791-9b8c-42af-adb0-7b1f930e7f82",
       "name": "[BE] List Purchase Order",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 275535,
       "completed_at": null,
       "estimate_point": null,
@@ -115,7 +115,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-11T03:22:30.916563Z",
-      "updated_at": "2025-03-18T02:45:21.471550Z",
+      "updated_at": "2025-03-18T04:12:53.147463Z",
       "created_by": "9a97cc08-c1b6-41ce-8b05-b2acb3098454",
       "updated_by": "9a97cc08-c1b6-41ce-8b05-b2acb3098454",
       "is_draft": false,
@@ -136,7 +136,7 @@
   {
       "id": "e9ae5fb4-5d33-4afb-aed9-901ccbbc79be",
       "name": "[BE] Get By Id Purchase Order",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 285535,
       "completed_at": null,
       "estimate_point": null,
@@ -147,7 +147,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-11T03:23:38.226972Z",
-      "updated_at": "2025-03-18T02:45:25.240314Z",
+      "updated_at": "2025-03-18T04:12:57.435929Z",
       "created_by": "9a97cc08-c1b6-41ce-8b05-b2acb3098454",
       "updated_by": "9a97cc08-c1b6-41ce-8b05-b2acb3098454",
       "is_draft": false,
@@ -168,9 +168,9 @@
   {
       "id": "e0b05841-3b20-44f7-add9-11ff64236071",
       "name": "[Fe Integration] Tim Penjualan",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "aeb18572-31d5-4697-b874-f877e07415db",
       "sort_order": 295535,
-      "completed_at": null,
+      "completed_at": "2025-03-18T04:10:49.179401Z",
       "estimate_point": 1,
       "priority": "none",
       "start_date": null,
@@ -179,7 +179,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-17T02:53:20.900783Z",
-      "updated_at": "2025-03-18T01:56:28.676666Z",
+      "updated_at": "2025-03-18T04:10:49.258395Z",
       "created_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "updated_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "is_draft": false,
@@ -197,9 +197,9 @@
   {
       "id": "27f8715a-ec8c-4a21-8e3c-647a93b40047",
       "name": "[FE Integration] Pajak",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "aeb18572-31d5-4697-b874-f877e07415db",
       "sort_order": 305535,
-      "completed_at": null,
+      "completed_at": "2025-03-18T04:10:44.719486Z",
       "estimate_point": null,
       "priority": "none",
       "start_date": null,
@@ -208,7 +208,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-17T03:03:45.703211Z",
-      "updated_at": "2025-03-18T01:55:38.668253Z",
+      "updated_at": "2025-03-18T04:10:44.845139Z",
       "created_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "updated_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "is_draft": false,
@@ -226,7 +226,7 @@
   {
       "id": "41f57e2b-63a8-4c84-b346-260263fc9355",
       "name": "[FE Integration] Kategori Produk",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "75ce4736-cf40-4148-ac66-73c39132ae30",
       "sort_order": 315535,
       "completed_at": null,
       "estimate_point": null,
@@ -237,7 +237,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-17T03:06:40.424012Z",
-      "updated_at": "2025-03-18T01:55:37.186916Z",
+      "updated_at": "2025-03-18T04:11:44.925236Z",
       "created_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "updated_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "is_draft": false,
@@ -255,9 +255,9 @@
   {
       "id": "4e5e8366-1e27-4977-b2d7-9aadd537af85",
       "name": "[FE Integrasi] Kategori Vendor",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "aeb18572-31d5-4697-b874-f877e07415db",
       "sort_order": 325535,
-      "completed_at": null,
+      "completed_at": "2025-03-18T04:10:39.561566Z",
       "estimate_point": null,
       "priority": "none",
       "start_date": null,
@@ -266,7 +266,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-17T04:32:23.964901Z",
-      "updated_at": "2025-03-18T01:55:35.108982Z",
+      "updated_at": "2025-03-18T04:10:39.643841Z",
       "created_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "updated_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "is_draft": false,
@@ -284,9 +284,9 @@
   {
       "id": "de17856b-a81a-4cca-8569-7f8284d7bb6f",
       "name": "[FE] Kategori Customer",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "aeb18572-31d5-4697-b874-f877e07415db",
       "sort_order": 335535,
-      "completed_at": null,
+      "completed_at": "2025-03-18T04:10:37.041376Z",
       "estimate_point": null,
       "priority": "none",
       "start_date": null,
@@ -295,7 +295,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-17T04:56:37.495118Z",
-      "updated_at": "2025-03-18T03:20:36.585750Z",
+      "updated_at": "2025-03-18T04:10:37.222711Z",
       "created_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "updated_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "is_draft": false,
@@ -313,9 +313,9 @@
   {
       "id": "db61e3a9-403d-4b6d-be78-871e5d48040f",
       "name": "[FE] Options Bank, Country, City",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "aeb18572-31d5-4697-b874-f877e07415db",
       "sort_order": 345535,
-      "completed_at": null,
+      "completed_at": "2025-03-18T04:10:34.390949Z",
       "estimate_point": null,
       "priority": "none",
       "start_date": null,
@@ -324,7 +324,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-17T06:16:14.095374Z",
-      "updated_at": "2025-03-18T01:56:24.411044Z",
+      "updated_at": "2025-03-18T04:10:34.523254Z",
       "created_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "updated_by": "036d87e2-d864-496d-a952-721ba29fefb8",
       "is_draft": false,
@@ -992,35 +992,6 @@
       ]
   },
   {
-      "id": "4fa8696e-0478-4b18-827b-df20e27e3a3a",
-      "name": "[BE] List view riwayat harga beli",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
-      "sort_order": 565535,
-      "completed_at": null,
-      "estimate_point": null,
-      "priority": "none",
-      "start_date": null,
-      "target_date": null,
-      "sequence_id": 163,
-      "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
-      "parent_id": null,
-      "created_at": "2025-03-18T02:10:50.645287Z",
-      "updated_at": "2025-03-18T02:10:56.961777Z",
-      "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
-      "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
-      "is_draft": false,
-      "archived_at": null,
-      "cycle_id": "3e227009-89cd-4960-a02f-19387ab20161",
-      "link_count": 0,
-      "attachment_count": 0,
-      "sub_issues_count": 0,
-      "label_ids": [],
-      "assignee_ids": [
-          "16d4634a-e9e3-4827-81bc-736a75a97d8c"
-      ],
-      "module_ids": []
-  },
-  {
       "id": "8978487a-49c8-4416-9131-fb4fd23515a3",
       "name": "[BE] List riwayat harga jual",
       "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
@@ -1034,7 +1005,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:11:15.332394Z",
-      "updated_at": "2025-03-18T02:11:16.021888Z",
+      "updated_at": "2025-03-18T04:18:27.872668Z",
       "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "is_draft": false,
@@ -1043,7 +1014,9 @@
       "link_count": 0,
       "attachment_count": 0,
       "sub_issues_count": 0,
-      "label_ids": [],
+      "label_ids": [
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
       "assignee_ids": [
           "16d4634a-e9e3-4827-81bc-736a75a97d8c"
       ],
@@ -1063,7 +1036,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:15:57.464193Z",
-      "updated_at": "2025-03-18T02:15:58.473649Z",
+      "updated_at": "2025-03-18T04:18:23.553553Z",
       "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "is_draft": false,
@@ -1072,7 +1045,9 @@
       "link_count": 0,
       "attachment_count": 0,
       "sub_issues_count": 0,
-      "label_ids": [],
+      "label_ids": [
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
       "assignee_ids": [
           "16d4634a-e9e3-4827-81bc-736a75a97d8c"
       ],
@@ -1092,7 +1067,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:16:16.235545Z",
-      "updated_at": "2025-03-18T02:16:17.166632Z",
+      "updated_at": "2025-03-18T04:18:19.597460Z",
       "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "is_draft": false,
@@ -1101,7 +1076,9 @@
       "link_count": 0,
       "attachment_count": 0,
       "sub_issues_count": 0,
-      "label_ids": [],
+      "label_ids": [
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
       "assignee_ids": [
           "16d4634a-e9e3-4827-81bc-736a75a97d8c"
       ],
@@ -1121,7 +1098,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:18:08.120639Z",
-      "updated_at": "2025-03-18T02:18:08.882249Z",
+      "updated_at": "2025-03-18T04:18:16.021162Z",
       "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "is_draft": false,
@@ -1130,7 +1107,9 @@
       "link_count": 0,
       "attachment_count": 0,
       "sub_issues_count": 0,
-      "label_ids": [],
+      "label_ids": [
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
       "assignee_ids": [
           "16d4634a-e9e3-4827-81bc-736a75a97d8c"
       ],
@@ -1150,7 +1129,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:18:26.992962Z",
-      "updated_at": "2025-03-18T02:18:27.693002Z",
+      "updated_at": "2025-03-18T04:18:12.938914Z",
       "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "is_draft": false,
@@ -1159,7 +1138,9 @@
       "link_count": 0,
       "attachment_count": 0,
       "sub_issues_count": 0,
-      "label_ids": [],
+      "label_ids": [
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
       "assignee_ids": [
           "16d4634a-e9e3-4827-81bc-736a75a97d8c"
       ],
@@ -1168,7 +1149,7 @@
   {
       "id": "f48162b4-adc0-4753-9704-1326be8e51fd",
       "name": "[FE] Slicing Find Bank",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 625535,
       "completed_at": null,
       "estimate_point": null,
@@ -1179,7 +1160,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:23:20.553727Z",
-      "updated_at": "2025-03-18T02:25:45.576359Z",
+      "updated_at": "2025-03-18T04:04:10.651925Z",
       "created_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "updated_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "is_draft": false,
@@ -1199,7 +1180,7 @@
   {
       "id": "b5afb9e2-a9ee-41d6-a14c-e9c8a4965f0c",
       "name": "[FE] Slicing CRU Bank",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 635535,
       "completed_at": null,
       "estimate_point": null,
@@ -1210,7 +1191,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:26:45.590060Z",
-      "updated_at": "2025-03-18T02:26:46.042853Z",
+      "updated_at": "2025-03-18T04:04:12.663965Z",
       "created_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "updated_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "is_draft": false,
@@ -1230,7 +1211,7 @@
   {
       "id": "313d1a09-5daf-404e-92eb-bf5add6785ab",
       "name": "[FE] API Integration Find Bank",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 645535,
       "completed_at": null,
       "estimate_point": null,
@@ -1241,7 +1222,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:27:34.996938Z",
-      "updated_at": "2025-03-18T02:29:02.603481Z",
+      "updated_at": "2025-03-18T04:04:15.017072Z",
       "created_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "updated_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "is_draft": false,
@@ -1261,7 +1242,7 @@
   {
       "id": "ecaaf044-9eff-465c-b680-b3b3aace7223",
       "name": "[FE] Api Integration CRU Bank",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 655535,
       "completed_at": null,
       "estimate_point": null,
@@ -1272,7 +1253,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:28:47.509763Z",
-      "updated_at": "2025-03-18T02:28:48.161295Z",
+      "updated_at": "2025-03-18T04:04:16.867696Z",
       "created_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "updated_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "is_draft": false,
@@ -1292,7 +1273,7 @@
   {
       "id": "fd4e52e7-0e7c-4efa-bfb6-f363fa7298c9",
       "name": "[FE] Slicing Pemetaan Akun",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 665535,
       "completed_at": null,
       "estimate_point": null,
@@ -1303,7 +1284,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:32:16.694270Z",
-      "updated_at": "2025-03-18T02:33:11.057392Z",
+      "updated_at": "2025-03-18T04:04:18.808977Z",
       "created_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "updated_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "is_draft": false,
@@ -1323,7 +1304,7 @@
   {
       "id": "9c151ea2-2daf-40fe-8cf2-1f3d9f6d5d82",
       "name": "[FE] API Integration Pemetaan Akun",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 675535,
       "completed_at": null,
       "estimate_point": null,
@@ -1334,7 +1315,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:32:30.758491Z",
-      "updated_at": "2025-03-18T02:33:04.609224Z",
+      "updated_at": "2025-03-18T04:04:20.769509Z",
       "created_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "updated_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "is_draft": false,
@@ -1365,7 +1346,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:33:07.057748Z",
-      "updated_at": "2025-03-18T03:45:45.798017Z",
+      "updated_at": "2025-03-18T04:18:40.532247Z",
       "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "is_draft": false,
@@ -1374,7 +1355,9 @@
       "link_count": 0,
       "attachment_count": 0,
       "sub_issues_count": 0,
-      "label_ids": [],
+      "label_ids": [
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
       "assignee_ids": [
           "16d4634a-e9e3-4827-81bc-736a75a97d8c"
       ],
@@ -1383,7 +1366,7 @@
   {
       "id": "c9ac5e56-8cce-493b-a81f-6d67f237de2b",
       "name": "[FE] Slicing Riwayat Harga on Product Page",
-      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
       "sort_order": 695535,
       "completed_at": null,
       "estimate_point": null,
@@ -1394,7 +1377,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T02:34:55.744290Z",
-      "updated_at": "2025-03-18T02:34:56.181553Z",
+      "updated_at": "2025-03-18T04:04:25.713419Z",
       "created_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "updated_by": "15ac534d-4448-4a84-86eb-64970fa078cd",
       "is_draft": false,
@@ -1581,7 +1564,7 @@
       "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
       "parent_id": null,
       "created_at": "2025-03-18T03:44:01.064691Z",
-      "updated_at": "2025-03-18T03:44:01.693922Z",
+      "updated_at": "2025-03-18T04:18:09.923152Z",
       "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
       "is_draft": false,
@@ -1590,7 +1573,101 @@
       "link_count": 0,
       "attachment_count": 0,
       "sub_issues_count": 0,
+      "label_ids": [
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
+      "assignee_ids": [
+          "16d4634a-e9e3-4827-81bc-736a75a97d8c"
+      ],
+      "module_ids": []
+  },
+  {
+      "id": "77fe7fcd-3c06-433b-b14d-343f97df4a1f",
+      "name": "[FE] Integration Pelanggan",
+      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "sort_order": 735535,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "none",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 183,
+      "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
+      "parent_id": null,
+      "created_at": "2025-03-18T04:12:55.971511Z",
+      "updated_at": "2025-03-18T04:12:56.476747Z",
+      "created_by": "036d87e2-d864-496d-a952-721ba29fefb8",
+      "updated_by": "036d87e2-d864-496d-a952-721ba29fefb8",
+      "is_draft": false,
+      "archived_at": null,
+      "cycle_id": "3e227009-89cd-4960-a02f-19387ab20161",
+      "link_count": 0,
+      "attachment_count": 0,
+      "sub_issues_count": 0,
       "label_ids": [],
+      "assignee_ids": [
+          "036d87e2-d864-496d-a952-721ba29fefb8"
+      ],
+      "module_ids": []
+  },
+  {
+      "id": "0c9a501f-d4b2-4cce-8b3d-c9a5962f52e6",
+      "name": "[BE] Create Purchase Order",
+      "state_id": "56a4a0ce-66d0-4e58-9570-d46ee10970c3",
+      "sort_order": 705535,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "none",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 184,
+      "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
+      "parent_id": null,
+      "created_at": "2025-03-18T04:16:35.727319Z",
+      "updated_at": "2025-03-18T04:16:36.334728Z",
+      "created_by": "9a97cc08-c1b6-41ce-8b05-b2acb3098454",
+      "updated_by": "9a97cc08-c1b6-41ce-8b05-b2acb3098454",
+      "is_draft": false,
+      "archived_at": null,
+      "cycle_id": "3e227009-89cd-4960-a02f-19387ab20161",
+      "link_count": 0,
+      "attachment_count": 0,
+      "sub_issues_count": 0,
+      "label_ids": [
+          "4fdb1a5c-9d31-44bd-817b-4ccfd98b4196",
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
+      "assignee_ids": [
+          "9a97cc08-c1b6-41ce-8b05-b2acb3098454"
+      ],
+      "module_ids": []
+  },
+  {
+      "id": "0aadf8a3-9a7c-47a7-843b-3fab1a47838d",
+      "name": "[BE] pesanan penjualan skeleton",
+      "state_id": "b2df651a-2db6-4c94-bbd3-03aadbb27033",
+      "sort_order": 745535,
+      "completed_at": null,
+      "estimate_point": null,
+      "priority": "none",
+      "start_date": null,
+      "target_date": null,
+      "sequence_id": 185,
+      "project_id": "d068818a-fe58-48c7-8554-e6cd38663cc1",
+      "parent_id": null,
+      "created_at": "2025-03-18T04:18:01.375367Z",
+      "updated_at": "2025-03-18T04:18:02.460098Z",
+      "created_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
+      "updated_by": "16d4634a-e9e3-4827-81bc-736a75a97d8c",
+      "is_draft": false,
+      "archived_at": null,
+      "cycle_id": "3e227009-89cd-4960-a02f-19387ab20161",
+      "link_count": 0,
+      "attachment_count": 0,
+      "sub_issues_count": 0,
+      "label_ids": [
+          "99f3c0c3-f56a-4c5e-a188-68ed5bac158e"
+      ],
       "assignee_ids": [
           "16d4634a-e9e3-4827-81bc-736a75a97d8c"
       ],

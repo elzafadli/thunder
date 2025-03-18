@@ -122,13 +122,7 @@ func main() {
 	}
 
 	sort.SliceStable(issuesData, func(i, j int) bool {
-		if len(issuesData[i].Assignees.ID) == 0 {
-			return false
-		}
-		if len(issuesData[j].Assignees.ID) == 0 {
-			return true
-		}
-		return issuesData[i].Assignees.ID[0] < issuesData[j].Assignees.ID[0]
+		return issuesData[i].CreatedBy < issuesData[j].CreatedBy
 	})
 
 	// 	for _, issue := range issuesData {
@@ -147,7 +141,7 @@ func main() {
 
 	for _, issue := range issuesData {
 		title := fmt.Sprintf("%s by %s", strings.ReplaceAll(issue.Name, ",", " &"), issue.Assignees.DisplayName)
-		record := []string{"Task", title, issue.ID, "", "", ""}
+		record := []string{"Task", title, "", "", "", ""}
 		writer.Write(record)
 	}
 
